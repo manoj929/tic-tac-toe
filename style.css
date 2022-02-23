@@ -44,5 +44,12 @@ body {
 }
 
 .highlight {
-    background-color: rebeccapurple;
+    background-color: rgb(59, 59, 29);
+    color: white;
+}
+
+.mesage{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
 }
